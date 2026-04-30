@@ -1,22 +1,12 @@
-# =========================================
-# UNBOUND WHITELIST - COMMON USER DOMAINS
-# =========================================
-
-# ===== SYSTEM CONNECTIVITY CHECK =====
 local-zone: "connectivitycheck.gstatic.com" transparent
 local-zone: "clients3.google.com" transparent
 local-zone: "clients4.google.com" transparent
-
 local-zone: "captive.apple.com" transparent
 local-zone: "gsp1.apple.com" transparent
-
 local-zone: "msftconnecttest.com" transparent
 local-zone: "msftncsi.com" transparent
 local-zone: "www.msftconnecttest.com" transparent
-
 local-zone: "detectportal.firefox.com" transparent
-
-# ===== GOOGLE CORE =====
 local-zone: "google.com" transparent
 local-zone: "www.google.com" transparent
 local-zone: "google.co.id" transparent
@@ -45,14 +35,10 @@ local-zone: "office365.com" transparent
 local-zone: "teams.microsoft.com" transparent
 local-zone: "onedrive.live.com" transparent
 local-zone: "bing.com" transparent
-
-# ===== APPLE =====
 local-zone: "apple.com" transparent
 local-zone: "icloud.com" transparent
 local-zone: "itunes.apple.com" transparent
 local-zone: "apps.apple.com" transparent
-
-# ===== META (FACEBOOK / INSTAGRAM / WHATSAPP) =====
 local-zone: "facebook.com" transparent
 local-zone: "www.facebook.com" transparent
 local-zone: "m.facebook.com" transparent
@@ -62,67 +48,45 @@ local-zone: "instagram.com" transparent
 local-zone: "cdninstagram.com" transparent
 local-zone: "whatsapp.com" transparent
 local-zone: "web.whatsapp.com" transparent
-
-# ===== TIKTOK =====
 local-zone: "tiktok.com" transparent
 local-zone: "www.tiktok.com" transparent
 local-zone: "tiktokcdn.com" transparent
 local-zone: "byteoversea.com" transparent
-
-# ===== TELEGRAM =====
 local-zone: "telegram.org" transparent
 local-zone: "t.me" transparent
-
-# ===== STREAMING =====
 local-zone: "netflix.com" transparent
 local-zone: "nflxvideo.net" transparent
 local-zone: "spotify.com" transparent
 local-zone: "scdn.co" transparent
-
-# ===== E-COMMERCE INDONESIA =====
 local-zone: "tokopedia.com" transparent
 local-zone: "shopee.co.id" transparent
 local-zone: "bukalapak.com" transparent
 local-zone: "lazada.co.id" transparent
 local-zone: "blibli.com" transparent
-
-# ===== PAYMENT / FINTECH =====
 local-zone: "paypal.com" transparent
 local-zone: "dana.id" transparent
 local-zone: "ovo.id" transparent
 local-zone: "gopay.co.id" transparent
 local-zone: "linkaja.id" transparent
-
-# ===== CDN / INFRA =====
 local-zone: "cloudflare.com" transparent
 local-zone: "cloudflare-dns.com" transparent
 local-zone: "akamaihd.net" transparent
 local-zone: "fastly.net" transparent
 local-zone: "cloudfront.net" transparent
-
-# ===== DNS OVER HTTPS / RESOLVERS =====
 local-zone: "dns.google" transparent
 local-zone: "one.one.one.one" transparent
-
-# ===== DEVELOPMENT / COMMON TOOLS =====
 local-zone: "github.com" transparent
 local-zone: "raw.githubusercontent.com" transparent
 local-zone: "gitlab.com" transparent
 local-zone: "stackoverflow.com" transparent
 local-zone: "npmjs.com" transparent
-
-# ===== EMAIL =====
 local-zone: "gmail.com" transparent
 local-zone: "yahoo.com" transparent
 local-zone: "mail.yahoo.com" transparent
-
-# ===== NEWS / GENERAL =====
 local-zone: "detik.com" transparent
 local-zone: "kompas.com" transparent
 local-zone: "cnnindonesia.com" transparent
 local-zone: "tribunnews.com" transparent
-
-# ===== OPTIONAL (ADS / TRACKING WHITELIST - USE WITH CAUTION) =====
 local-zone: "doubleclick.net" transparent
 local-zone: "googleads.g.doubleclick.net" transparent
 local-zone: "adservice.google.com" transparent
@@ -135,6 +99,4 @@ local-zone: "unityads.unity3d.com" transparent
 local-zone: "appsflyer.com" transparent
 local-zone: "adjust.com" transparent
 local-zone: "branch.io" transparent
-
-# ===== CUSTOM =====
 local-zone: "sasfiber.com" transparent

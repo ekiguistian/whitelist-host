@@ -24,8 +24,6 @@ local-zone: "youtu.be" transparent
 local-zone: "ytimg.com" transparent
 local-zone: "googlevideo.com" transparent
 local-zone: "gstatic.com" transparent
-
-# ===== MICROSOFT CORE =====
 local-zone: "microsoft.com" transparent
 local-zone: "www.microsoft.com" transparent
 local-zone: "login.live.com" transparent

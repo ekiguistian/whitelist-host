@@ -1,100 +1,100 @@
-local-zone: "connectivitycheck.gstatic.com" transparent
-local-zone: "clients3.google.com" transparent
-local-zone: "clients4.google.com" transparent
-local-zone: "captive.apple.com" transparent
-local-zone: "gsp1.apple.com" transparent
-local-zone: "msftconnecttest.com" transparent
-local-zone: "msftncsi.com" transparent
-local-zone: "www.msftconnecttest.com" transparent
-local-zone: "detectportal.firefox.com" transparent
-local-zone: "google.com" transparent
-local-zone: "www.google.com" transparent
-local-zone: "google.co.id" transparent
-local-zone: "accounts.google.com" transparent
-local-zone: "mail.google.com" transparent
-local-zone: "drive.google.com" transparent
-local-zone: "docs.google.com" transparent
-local-zone: "meet.google.com" transparent
-local-zone: "maps.google.com" transparent
-local-zone: "play.google.com" transparent
-local-zone: "youtube.com" transparent
-local-zone: "www.youtube.com" transparent
-local-zone: "m.youtube.com" transparent
-local-zone: "youtu.be" transparent
-local-zone: "ytimg.com" transparent
-local-zone: "googlevideo.com" transparent
-local-zone: "gstatic.com" transparent
-local-zone: "microsoft.com" transparent
-local-zone: "www.microsoft.com" transparent
-local-zone: "login.live.com" transparent
-local-zone: "outlook.com" transparent
-local-zone: "office.com" transparent
-local-zone: "office365.com" transparent
-local-zone: "teams.microsoft.com" transparent
-local-zone: "onedrive.live.com" transparent
-local-zone: "bing.com" transparent
-local-zone: "apple.com" transparent
-local-zone: "icloud.com" transparent
-local-zone: "itunes.apple.com" transparent
-local-zone: "apps.apple.com" transparent
-local-zone: "facebook.com" transparent
-local-zone: "www.facebook.com" transparent
-local-zone: "m.facebook.com" transparent
-local-zone: "fbcdn.net" transparent
-local-zone: "messenger.com" transparent
-local-zone: "instagram.com" transparent
-local-zone: "cdninstagram.com" transparent
-local-zone: "whatsapp.com" transparent
-local-zone: "web.whatsapp.com" transparent
-local-zone: "tiktok.com" transparent
-local-zone: "www.tiktok.com" transparent
-local-zone: "tiktokcdn.com" transparent
-local-zone: "byteoversea.com" transparent
-local-zone: "telegram.org" transparent
-local-zone: "t.me" transparent
-local-zone: "netflix.com" transparent
-local-zone: "nflxvideo.net" transparent
-local-zone: "spotify.com" transparent
-local-zone: "scdn.co" transparent
-local-zone: "tokopedia.com" transparent
-local-zone: "shopee.co.id" transparent
-local-zone: "bukalapak.com" transparent
-local-zone: "lazada.co.id" transparent
-local-zone: "blibli.com" transparent
-local-zone: "paypal.com" transparent
-local-zone: "dana.id" transparent
-local-zone: "ovo.id" transparent
-local-zone: "gopay.co.id" transparent
-local-zone: "linkaja.id" transparent
-local-zone: "cloudflare.com" transparent
-local-zone: "cloudflare-dns.com" transparent
-local-zone: "akamaihd.net" transparent
-local-zone: "fastly.net" transparent
-local-zone: "cloudfront.net" transparent
-local-zone: "dns.google" transparent
-local-zone: "one.one.one.one" transparent
-local-zone: "github.com" transparent
-local-zone: "raw.githubusercontent.com" transparent
-local-zone: "gitlab.com" transparent
-local-zone: "stackoverflow.com" transparent
-local-zone: "npmjs.com" transparent
-local-zone: "gmail.com" transparent
-local-zone: "yahoo.com" transparent
-local-zone: "mail.yahoo.com" transparent
-local-zone: "detik.com" transparent
-local-zone: "kompas.com" transparent
-local-zone: "cnnindonesia.com" transparent
-local-zone: "tribunnews.com" transparent
-local-zone: "doubleclick.net" transparent
-local-zone: "googleads.g.doubleclick.net" transparent
-local-zone: "adservice.google.com" transparent
-local-zone: "pagead2.googlesyndication.com" transparent
-local-zone: "ads.facebook.com" transparent
-local-zone: "graph.facebook.com" transparent
-local-zone: "ads.tiktok.com" transparent
-local-zone: "applovin.com" transparent
-local-zone: "unityads.unity3d.com" transparent
-local-zone: "appsflyer.com" transparent
-local-zone: "adjust.com" transparent
-local-zone: "branch.io" transparent
-local-zone: "sasfiber.com" transparent
+connectivitycheck.gstatic.com
+clients3.google.com
+clients4.google.com
+captive.apple.com
+gsp1.apple.com
+msftconnecttest.com
+msftncsi.com
+www.msftconnecttest.com
+detectportal.firefox.com
+google.com
+www.google.com
+google.co.id
+accounts.google.com
+mail.google.com
+drive.google.com
+docs.google.com
+meet.google.com
+maps.google.com
+play.google.com
+youtube.com
+www.youtube.com
+m.youtube.com
+youtu.be
+ytimg.com
+googlevideo.com
+gstatic.com
+microsoft.com
+www.microsoft.com
+login.live.com
+outlook.com
+office.com
+office365.com
+teams.microsoft.com
+onedrive.live.com
+bing.com
+apple.com
+icloud.com
+itunes.apple.com
+apps.apple.com
+facebook.com
+www.facebook.com
+m.facebook.com
+fbcdn.net
+messenger.com
+instagram.com
+cdninstagram.com
+whatsapp.com
+web.whatsapp.com
+tiktok.com
+www.tiktok.com
+tiktokcdn.com
+byteoversea.com
+telegram.org
+t.me
+netflix.com
+nflxvideo.net
+spotify.com
+scdn.co
+tokopedia.com
+shopee.co.id
+bukalapak.com
+lazada.co.id
+blibli.com
+paypal.com
+dana.id
+ovo.id
+gopay.co.id
+linkaja.id
+cloudflare.com
+cloudflare-dns.com
+akamaihd.net
+fastly.net
+cloudfront.net
+dns.google
+one.one.one.one
+github.com
+raw.githubusercontent.com
+gitlab.com
+stackoverflow.com
+npmjs.com
+gmail.com
+yahoo.com
+mail.yahoo.com
+detik.com
+kompas.com
+cnnindonesia.com
+tribunnews.com
+doubleclick.net
+googleads.g.doubleclick.net
+adservice.google.com
+pagead2.googlesyndication.com
+ads.facebook.com
+graph.facebook.com
+ads.tiktok.com
+applovin.com
+unityads.unity3d.com
+appsflyer.com
+adjust.com
+branch.io
+sasfiber.com

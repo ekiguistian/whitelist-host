@@ -216,3 +216,4 @@ androidtvwatsonfe-pa.googleapis.com
 play-fe.googleapis.com
 connectivitycheck.android.com
 android.clients.google.com
+cdn.jsdelivr.net
